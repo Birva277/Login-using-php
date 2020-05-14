@@ -1,0 +1,34 @@
+.form-group {
+	margin-bottom: 25px;
+}
+.form-group input {
+	height: 42px;
+	border-radius: 5px;
+	font-size: 18px;
+	padding-left: 54px;
+}
+.modal-content {
+	background-color: white;
+	border-radius: 10px;
+	width: 90%;
+	align-content: center;
+}
+.main-section {
+	margin: 0 auto;
+}
+.modal-dialog {
+	align-content: center center;
+	display: flex;
+}
+form {
+	align-self: center;
+}
+button {
+	width: 120px;
+	height: 40px;
+}
+h6 {
+	float: left;
+	font-weight: lighter;
+	padding-left: 0px;
+}
